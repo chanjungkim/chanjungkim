@@ -12,7 +12,7 @@ Old Projects...
 
 - [simpleSNS](https://github.com/chanjungkim/simpleSNS) <--- Instagram-like side project with Node.js + Android
 
-- [SCNU menu](https://github.com/chanjungkim/scnumenu) <--- you can customize
+- [SCNU menu](https://github.com/chanjungkim/scnumenu) <--- PHP+Swing project.(you can customize for your menu or whatever)
 
 Android Library
 
