@@ -24,7 +24,7 @@ Open Project...
 
 - Chrome Extentions: [Noogle - Clean Naver](https://chrome.google.com/webstore/detail/noogle-clean-naver/fjgggfbmofokfmdecldnhlommognnepc)[[Repo](https://github.com/chanjungkim/noogle)], [Stackoverflow Assistant](https://chrome.google.com/webstore/detail/stackoverflow-assistant/hihdmkmijhclhikapcedghlllpdliddg)[[Repo](https://github.com/chanjungkim/stackoverflow-assistanthttps://github.com/chanjungkim/stackoverflow-assistant)]
 
-- Android Library [AMutableLiveData](https://github.com/chanjungkim/AMutableLiveData) <--- useless
+- Android Library: [AMutableLiveData](https://github.com/chanjungkim/AMutableLiveData)
 <!--
 **chanjungkim/chanjungkim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
