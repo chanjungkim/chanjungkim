@@ -12,7 +12,7 @@ Android Library
 
 Old Projects...
 
-- [Seo](https://github.com/chanjungkim/SeFo) <--- Facebook-like Social Network Project with Spring & JSP
+- [SeFo](https://github.com/chanjungkim/SeFo) <--- Facebook-like Social Network Project with Spring & JSP
 
 - [Atalk](https://github.com/chanjungkim/ATalk) <--- Socket based chat with Swing
 
