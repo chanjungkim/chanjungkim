@@ -6,10 +6,6 @@ Currently...
 
 - [flutter-study](https://github.com/chanjungkim/flutter-study)
 
-Interview Related
-
-- [Sibal Coding Interview](https://github.com/chanjungkim/sibal-coding-interview) <--- Sibal means 'the first start'
-
 Android Library
 
 - [AMutableLiveData](https://github.com/chanjungkim/AMutableLiveData) <--- trash
@@ -29,6 +25,8 @@ Old Projects...
 - etc(A lot in my repo...)
 
 Open Project...
+
+- [Sibal Coding Interview](https://github.com/chanjungkim/sibal-coding-interview) <--- (Sibal means 'the first start') For Job Interview
 
 - [Noogle - Clean Naver](https://chrome.google.com/webstore/detail/noogle-clean-naver/fjgggfbmofokfmdecldnhlommognnepc)[[Repo](https://github.com/chanjungkim/noogle)] <--- Good for mental health
 
