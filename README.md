@@ -6,12 +6,6 @@ Currently...
 
 - [flutter-study](https://github.com/chanjungkim/flutter-study)
 
-Android Library
-
-- [AMutableLiveData](https://github.com/chanjungkim/AMutableLiveData) <--- useless
-
-- Any Idea?
-
 Old Projects...
 
 - [simpleSNS](https://github.com/chanjungkim/simpleSNS) <--- Instagram-like side project with Node.js + Android
@@ -26,13 +20,11 @@ Old Projects...
 
 Open Project...
 
-- [Sibal Coding Interview](https://github.com/chanjungkim/sibal-coding-interview) <--- (Sibal means 'the first start') For Job Interview
+- Job Interview: [Sibal Coding Interview](https://github.com/chanjungkim/sibal-coding-interview)
 
-- [Noogle - Clean Naver](https://chrome.google.com/webstore/detail/noogle-clean-naver/fjgggfbmofokfmdecldnhlommognnepc)[[Repo](https://github.com/chanjungkim/noogle)] <--- Good for mental health
+- Chrome Extentions: [Noogle - Clean Naver](https://chrome.google.com/webstore/detail/noogle-clean-naver/fjgggfbmofokfmdecldnhlommognnepc)[[Repo](https://github.com/chanjungkim/noogle)], [Stackoverflow Assistant](https://chrome.google.com/webstore/detail/stackoverflow-assistant/hihdmkmijhclhikapcedghlllpdliddg)[[Repo](https://github.com/chanjungkim/stackoverflow-assistanthttps://github.com/chanjungkim/stackoverflow-assistant)]
 
-- [Stackoverflow Assistant](https://chrome.google.com/webstore/detail/stackoverflow-assistant/hihdmkmijhclhikapcedghlllpdliddg)[[Repo](https://github.com/chanjungkim/stackoverflow-assistanthttps://github.com/chanjungkim/stackoverflow-assistant)] <--- A bit trash
-
-
+- Android Library [AMutableLiveData](https://github.com/chanjungkim/AMutableLiveData) <--- useless
 <!--
 **chanjungkim/chanjungkim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
