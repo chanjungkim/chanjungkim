@@ -22,7 +22,7 @@ Old Projects...
 
 - [SCNU menu](https://github.com/chanjungkim/scnumenu) <--- PHP+Swing project.(you can customize for your menu or whatever)
 
-- etc(A lot in my repo...)
+- etc(A lot of trashes in my repo...)
 
 Open Project...
 
