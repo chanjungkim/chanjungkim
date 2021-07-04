@@ -6,6 +6,10 @@ Currently...
 
 - [flutter-study](https://github.com/chanjungkim/flutter-study)
 
+Android Library
+
+- [AMutableLiveData](https://github.com/chanjungkim/AMutableLiveData) <--- trash
+
 Old Projects...
 
 - [Atalk](https://github.com/chanjungkim/ATalk) <--- Socket based chat with Swing
@@ -14,11 +18,7 @@ Old Projects...
 
 - [SCNU menu](https://github.com/chanjungkim/scnumenu) <--- PHP+Swing project.(you can customize for your menu or whatever)
 
-Android Library
-
-- [AMutableLiveData](https://github.com/chanjungkim/AMutableLiveData) <--- trash
-
-What I created...
+Open Project...
 
 - [Noogle - Clean Naver](https://chrome.google.com/webstore/detail/noogle-clean-naver/fjgggfbmofokfmdecldnhlommognnepc)[[Repo](https://github.com/chanjungkim/noogle)] <--- Good for mental health
 
