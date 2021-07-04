@@ -1,4 +1,27 @@
-### Hi there 👋
+<a href="https://stackrating.com/user/7877391"><img src="https://stackrating.com/badge/7877391" /></a>
+
+Currently...
+
+- [Advanced Andriod Study](https://github.com/chanjungkim/advanced-android-study)
+
+Old Projects...
+
+- [Atalk](https://github.com/chanjungkim/ATalk) <--- Socket based chat with Swing
+
+- [simpleSNS](https://github.com/chanjungkim/simpleSNS) <--- Instagram-like side project with Node.js + Android
+
+- [SCNU menu](https://github.com/chanjungkim/scnumenu) <--- you can customize
+
+Android Library
+
+- [AMutableLiveData](https://github.com/chanjungkim/AMutableLiveData) <--- trash
+
+What I created...
+
+- [Noogle - Clean Naver](https://chrome.google.com/webstore/detail/noogle-clean-naver/fjgggfbmofokfmdecldnhlommognnepc)[[Repo](https://github.com/chanjungkim/noogle)] <--- Good for mental health
+
+- [Stackoverflow Assistant](https://chrome.google.com/webstore/detail/stackoverflow-assistant/hihdmkmijhclhikapcedghlllpdliddg)[[Repo](https://github.com/chanjungkim/stackoverflow-assistanthttps://github.com/chanjungkim/stackoverflow-assistant)] <--- A bit trash
+
 
 <!--
 **chanjungkim/chanjungkim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
