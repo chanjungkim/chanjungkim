@@ -8,7 +8,7 @@ Currently...
 
 Android Library
 
-- [AMutableLiveData](https://github.com/chanjungkim/AMutableLiveData) <--- trash
+- [AMutableLiveData](https://github.com/chanjungkim/AMutableLiveData) <--- useless
 
 - Any Idea?
 
