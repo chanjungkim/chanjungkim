@@ -10,6 +10,8 @@ Android Library
 
 - [AMutableLiveData](https://github.com/chanjungkim/AMutableLiveData) <--- trash
 
+- Any Idea?
+
 Old Projects...
 
 - [SeFo](https://github.com/chanjungkim/SeFo) <--- Facebook-like Social Network Project with Spring & JSP
