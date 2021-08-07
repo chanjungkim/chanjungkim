@@ -24,7 +24,7 @@ Open Project...
 
 - Job Interview: [Sibal Coding Interview](https://github.com/chanjungkim/sibal-coding-interview)
 
-- Chrome Extentions: [Noogle - Clean Naver](https://chrome.google.com/webstore/detail/noogle-clean-naver/fjgggfbmofokfmdecldnhlommognnepc)[[Repo](https://github.com/chanjungkim/noogle)], [Stackoverflow Assistant](https://chrome.google.com/webstore/detail/stackoverflow-assistant/hihdmkmijhclhikapcedghlllpdliddg)[[Repo](https://github.com/chanjungkim/stackoverflow-assistanthttps://github.com/chanjungkim/stackoverflow-assistant)]
+- Chrome Extentions: [Noogle - Clean Naver](https://chrome.google.com/webstore/detail/noogle-clean-naver/fjgggfbmofokfmdecldnhlommognnepc)[[Repo](https://github.com/chanjungkim/noogle)], [Stackoverflow Assistant](https://chrome.google.com/webstore/detail/stackoverflow-assistant/hihdmkmijhclhikapcedghlllpdliddg)[[Repo](https://github.com/chanjungkim/stackoverflow-assistanthttps://github.com/chanjungkim/stackoverflow-assistant)], [Smart Korean Tooltip](https://chrome.google.com/webstore/detail/smart-korean-tooltip/dcbnicglggfgpgbeinjjjmajagdmabnh)
 
 - Android Library: [AMutableLiveData](https://github.com/chanjungkim/AMutableLiveData)
 <!--
