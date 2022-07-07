@@ -1,5 +1,7 @@
 <a href="https://stackrating.com/user/7877391"><img src="https://stackrating.com/badge/7877391" /></a>
 
+[![BOJ](http://mazassumnida.wtf/api/generate_badge?boj=fman1335)](https://solved.ac/fman1335)
+
 Currently...
 
 - [Advanced Software Study](https://github.com/chanjungkim/advanced-software-study)
