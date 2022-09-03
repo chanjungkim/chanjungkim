@@ -6,7 +6,7 @@ Currently...
 
 - [Advanced Software Study](https://github.com/chanjungkim/advanced-software-study)
 
-- [Advanced Andriod Study](https://github.com/chanjungkim/advanced-android-study), [Advanced Andriod Study2](https://github.com/chanjungkim/advanced-android-study2)
+- [Advanced Andriod Study](https://github.com/Android-Study-Collection/advanced-android-study), [Advanced Andriod Study2](https://github.com/Android-Study-Collection/advanced-android-study2)
 
 - [flutter-study](https://github.com/chanjungkim/flutter-study)
 
