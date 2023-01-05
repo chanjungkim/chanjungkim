@@ -1,4 +1,4 @@
-<a href="https://stackrating.com/user/7877391"><img src="https://stackrating.com/badge/7877391" /></a>
+<!-- <a href="https://stackrating.com/user/7877391"><img src="https://stackrating.com/badge/7877391" /></a> -->
 
 <!-- [![BOJ](http://mazassumnida.wtf/api/generate_badge?boj=fman1335)](https://solved.ac/fman1335) -->
 
@@ -13,6 +13,10 @@
         <img src="http://iot.fbiego.com/api/v1/commits?user=chanjungkim&country=worldwide&bg_color=212328&text_color=fafafa&border_color=0000000000">
     </a> -->
 </div>
+
+## GitHub Stats
+
+[![Github stats](https://github-readme-stats.vercel.app/api?username=chanjungkim&theme=material-palenight)](https://github.com/chanjungkim/github-readme-stats)
 
 <!-- 
 Currently...
