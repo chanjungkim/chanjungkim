@@ -2,6 +2,11 @@
 
 [![BOJ](http://mazassumnida.wtf/api/generate_badge?boj=fman1335)](https://solved.ac/fman1335)
 
+[![committers.top badge](https://user-badge.committers.top/south_korea_public/chanjungkim.svg)](https://user-badge.committers.top/south_korea_public/chanjungkim)
+
+[![committers.top badge](https://org-badge.committers.top/south_korea_private/chanjungkim.svg)](https://org-badge.committers.top/south_korea_private/chanjungkim)
+
+
 Currently...
 
 - [Advanced Software Study](https://github.com/chanjungkim/advanced-software-study)
