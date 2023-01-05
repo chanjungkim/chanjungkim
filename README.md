@@ -8,10 +8,10 @@
     </a>
     <a href="https://committers.top/south_korea_private.html">
         <img src="http://iot.fbiego.com/api/v1/commits?user=chanjungkim&country=south_korea_private&bg_color=212328&text_color=fafafa&border_color=0000000">
-    </a>
+<!--     </a>
         <a href="https://committers.top/worldwide.html">
         <img src="http://iot.fbiego.com/api/v1/commits?user=chanjungkim&country=worldwide&bg_color=212328&text_color=fafafa&border_color=0000000000">
-    </a>
+    </a> -->
 </div>
 
 <!-- 
