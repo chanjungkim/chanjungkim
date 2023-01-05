@@ -1,6 +1,6 @@
 <a href="https://stackrating.com/user/7877391"><img src="https://stackrating.com/badge/7877391" /></a>
 
-[![BOJ](http://mazassumnida.wtf/api/generate_badge?boj=fman1335)](https://solved.ac/fman1335)
+<!-- [![BOJ](http://mazassumnida.wtf/api/generate_badge?boj=fman1335)](https://solved.ac/fman1335) -->
 
 <div align="center"> 
     <a href="https://committers.top/south_korea_public.html">
